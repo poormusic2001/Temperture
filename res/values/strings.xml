@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="city_name">縣市:</string>
+    <string name="temperture_number">溫度:</string>
+    <string name="Enter">查詢</string>
+	<string-array name="id_city">
+	    <item>台北市</item>
+	    <item>新北市</item>
+	    <item>桃園</item>
+	   	<item>新竹市</item>
+	   	<item>新竹</item>
+	   	<item>苗栗</item>
+	   	<item>台中市</item>
+	   	<item>彰化</item>
+	   	<item>南投</item>
+	   	<item>嘉義市</item>
+	   	<item>嘉義</item>
+	   	<item>台南市</item>
+	   	<item>高雄市</item>
+	   	<item>屏東</item>
+	   	<item>基隆市</item>
+	   	<item>宜蘭</item>
+	   	<item>花蓮</item>
+	   	<item>台東</item>
+	   	<item>雲林</item>
+	   	<item>澎湖</item>
+	   	<item>金門</item>
+	   	<item>馬祖</item>
+	    </string-array>
+	   	<string name="temperature_city"></string>
+	   	<string name="wait_message">處理中請稍後....</string>
+	   	<string name="network_notconnetced">網路未連接, 請開啟網路連線。</string>
+</resources>
